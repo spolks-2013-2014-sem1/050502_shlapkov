@@ -22,4 +22,3 @@ $port = 31445;
 	php -q main.php 25555 server input
 	php -q main.php 25555 client output
 	
-Для тестирования можно воспользоваться файлом inputfile лежащий в директории.
