@@ -1,4 +1,4 @@
-<?
+<?php
 error_reporting(E_ALL); //see all errors
 ob_implicit_flush(); //clear buffer
 
